@@ -1,0 +1,14 @@
+{
+  "name": "test_dev_back_datamart",
+  "version": "1.0.0",
+  "description": "Se desarrolla un total 7 ejecercios divididos en 4 que se realizan tulizando python3 y los restantes utilizando TypeScript o JavaScript.",
+  "main": "exercises.js",
+  "scripts": {
+    "start": "node exercises_4_5_6.js",
+    "dev": "node --watch exercises_4_5_6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

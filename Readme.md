@@ -42,9 +42,9 @@ For Exercises of Python use:
 
 ```bash
   python3 exercises_1_2_7.py 
+```
 
 
 ## Authors
 
 - [@ctorres803](https://github.com/ctorres803)
-
